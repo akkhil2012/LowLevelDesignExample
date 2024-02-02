@@ -1,0 +1,56 @@
+DS:
+
+https://leetcode.com/problems/reverse-nodes-in-k-group/description/
+
+You are given a string s and an integer k. You can choose any character
+of the string and change it to any other uppercase English character. You
+can perform this operation at most k times
+
+https://leetcode.com/problems/longest-repeating-character-replacement/solutions/91285/sliding-window-similar-to-finding-longest-substring-with-k-distinct-characters/
+
+
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solutions/1850228/java-4-solutions-with-slight-optimisations/
+
+
+Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+
+
+https://leetcode.com/problems/palindrome-partitioning/solutions/41982/java-dp-dfs-solution/
+
+https://leetcode.com/problems/daily-temperatures/solutions/109832/java-easy-ac-solution-with-stack/
+
+https://leetcode.com/problems/min-stack/solutions/49014/java-accepted-solution-using-one-stack/
+
+
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solutions/34617/java-o-n-solution-using-map-dfs/
+
+Trie:
+https://leetcode.com/problems/word-search-ii/solutions/59784/my-simple-and-clean-java-code-using-dfs-and-trie/
+https://leetcode.com/problems/word-search-ii/solutions/59784/my-simple-and-clean-java-code-using-dfs-and-trie/
+
+
+Heap
+
+
+Dynamic Programming
+
+
+https://leetcode.com/discuss/interview-question/2001789/collections-of-important-string-questions-pattern
+
+
+Given two words (start and end), and a dictionary, find the length of shortest transformation sequence from start to end, such that only one letter can be changed at a time
+and each intermediate word must exist in the dictionary. For
+
+
+Regular Expression Matching in Java
+
+WildCard Matching
+
+>>>>>>
+
+arcesium:
+https://leetcode.com/discuss/interview-experience/2090135/arcesium-principal-engineer-hyderabad-apr-2022-offer
+
+Data model
+DB Design (1 hour): Design a db schema for JIRA like systems. It should have support for managing user permissions, epics, issue types and went into details.
+

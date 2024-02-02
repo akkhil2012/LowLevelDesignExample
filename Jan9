@@ -1,0 +1,38 @@
+Jan9
+
+
+
+ to do again:
+1. JobSchdeuler
+
+2. Loge Framework
+
+3. write a multithreaded consumer ;to impersonate bi-data service
+
+4. continue on AmazonApplication in git
+
+LLD:
+https://www.youtube.com/@techdiscussion3617
+
+
+===
+DS:
+
+https://leetcode.com/problems/reverse-nodes-in-k-group/description/
+
+You are given a string s and an integer k. You can choose any character
+of the string and change it to any other uppercase English character. You
+can perform this operation at most k times
+
+https://leetcode.com/problems/longest-repeating-character-replacement/solutions/91285/sliding-window-similar-to-finding-longest-substring-with-k-distinct-characters/
+
+
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solutions/1850228/java-4-solutions-with-slight-optimisations/
+
+
+Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+
+
+https://leetcode.com/problems/palindrome-partitioning/solutions/41982/java-dp-dfs-solution/
+
+https://leetcode.com/problems/daily-temperatures/solutions/109832/java-easy-ac-solution-with-stack/
