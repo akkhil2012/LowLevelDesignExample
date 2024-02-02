@@ -1,0 +1,307 @@
+HLD Points:
+
+https://github.ibm.com/wdp-gov/imam-wkc-migration/pull/646
+
+SERVICE_API_KEY vs SERVICE_ID
+
+
+Okta is a cloud-based identity and access management (IAM) platform
+in IBM
+
+
+
+you tube:
+FAANG cclub:
+
+https://www.youtube.com/watch?v=ghYbFgeqXa0
+
+
+>>>>>
+
+MICROSERVICE INTERVIEWS:
+KAFKA IN SPRING
+https://www.youtube.com/watch?v=WOPPG5tyApg
+
+Messages are termed as recoerd.
+there could be one or more partitions for each topic
+where partitioning is a append only DataStructure
+
+
+https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22
+
+>>
+
+
+1) Content Delivery Network (CDN): https://lnkd.in/gjJrEJeH
+
+2) Caching: https://lnkd.in/gC9piQbJ
+
+3) Distributed Caching: https://lnkd.in/g7WKydNg
+
+4) Latency vs Throughput: https://lnkd.in/g_amhAtN
+
+5) CAP Theorem: https://lnkd.in/g3hmVamx
+
+6) Load Balancing: https://lnkd.in/gQaa8sXK
+
+7) ACID Transactions: https://lnkd.in/gMe2JqaF
+
+8) SQL vs NoSQL: https://lnkd.in/g3WC_yxn
+
+9) Consistent Hashing: https://lnkd.in/gd3eAQKA
+
+10) Database Index: https://lnkd.in/gCeshYVt
+      A database table can have one or more indexes associated with it
+      Index multiple fields:
+         If you often use Where clauses that involve more than one field, you may want to build an index containing multiple fields
+
+
+
+
+
+11) Rate Limiting: https://lnkd.in/gWsTDR3m
+
+12) Microservices Architecture: https://lnkd.in/gFXUrz_T
+
+13) Strong vs Eventual Consistency: https://lnkd.in/gJ-uXQXZ
+
+14) REST vs RPC: https://lnkd.in/gN__zcAB
+
+15) Batch Processing vs. Stream Processing: https://lnkd.in/g4_MzM4s
+
+16) HeartBeat: https://lnkd.in/g4x7sMrF
+
+17) Circuit Breaker: https://lnkd.in/gCxyFzKm
+
+18) Idempotency: https://lnkd.in/gPm6EtKJ
+
+19) Database Scaling: https://lnkd.in/gAXpSyWQ
+
+20) Data Replication: https://lnkd.in/gVAJxTpS
+
+21) Data Redundancy: https://lnkd.in/gNN7TF7n
+
+22) Database Sharding: https://lnkd.in/gMqqc6x9
+       based on:
+           1.  range based
+           2. hash based
+           3. entity-relationship based
+           4. geograpgy based
+
+23) Proxy Server: https://lnkd.in/gi8KnKS6
+
+24) Domain Name System (DNS): https://lnkd.in/gkMcZW8V
+
+25) Message Queues: https://lnkd.in/gTzY6uk8
+
+     Rabbit MQ; 
+
+26) WebSockets: https://lnkd.in/g76Gv2KQ
+
+27) Consensus Algorithms: https://lnkd.in/ggc3tFbr
+
+28) Fault Tolerance: https://lnkd.in/dVJ6n3wA
+
+29) Failover: https://lnkd.in/dihZ-cEG
+
+30) Gossip Protocol: https://lnkd.in/gfPMtrJZ
+
+31) API Gateway: https://lnkd.in/gnsJGJaM
+
+32) Distributed Locking: https://lnkd.in/gRxNJwWE
+
+33) Distributed Tracing: https://lnkd.in/d6r5RdXG (tool used: new relic)
+
+     Distributed tracing is a method of observing requests as they propagate through distributed cloud environments. It follows an interaction and tags it with a unique identifier. This identifier stays with the transaction as it interacts with microservices, containers, and infrastructure. In turn, this identifier offers real-time visibility into user experience, from the top of the stack to the application layer and the infrastructure beneath.
+
+
+
+34) Bloom Filters: https://lnkd.in/dt4QbSUz
+
+35) Checksum: https://lnkd.in/ghNc5pfn
+
+36) API Design: https://lnkd.in/ghYzrr8q
+		REST is resource-oriented and a resource is represented by an URI: /library
+		1 XX : information
+		2 X : success
+		3 X: redirection
+		4 X: client error
+		5X; server error
+
+		Response body must specify:
+		 Content-Type header as application/json
+		 401 : UnAuthorized
+		 403: Forbidden
+
+
+
+37) Serverless Architecture: https://lnkd.in/gQNAXKkb
+   Serverless architecture is an approach to software design that allows developers to build and run services without having to manage the underlying infrastructure
+   AWS Lambda
+   Although serverless architecture eliminates the need for server management
+
+   ServerLess Vs Container Architecture:
+    In contrast, server maintenance in serverless architectures is handled entirely by the cloud provider. Additionally, serverless apps scale automatically, while scaling container architectures requires the use of an orchestration platform like Kubernetes.
+
+
+38) Concurrency vs Parallelism: https://lnkd.in/gSKUm2Nh
+
+39) Disaster Recovery: https://lnkd.in/g8rnr3V3
+
+		Types:
+		 1. Backups
+		 2. BackUp as Service; backup by thord party
+		 3. Disaster recovery as a service (DRaaS): Alternative SaaS
+		 4. Point-in-time snapshots: but data loss can be there
+
+
+
+40) Service Discovery: https://lnkd.in/gjnrYkyF
+
+      Service instances have dynamically assigned network locations. Moreover, the set of service instances changes dynamically because of autoscaling, failures, and upgrades. Consequently, your client code needs to use a more elaborate service discovery mechanism.
+
+
+      Client side:
+      	Also, since the client knows about the available services instances, it can make intelligent, application‑specific load‑balancing decisions such as using hashing consistently. 
+
+      	One significant drawback of this pattern is that it couples the client with the service registry. You must implement client‑side service discovery logic for each programming language and framework used by your service clients.
+
+
+     As with client‑side discovery, service instances are registered and deregistered with the service registry.
+
+The AWS Elastic Load Balancer (ELB) is an example of a server-side discovery router. An ELB is commonly used to load balance external traffic from the Internet.
+
+       Consul: for service registry		
+===========
+
+HLD:
+https://www.youtube.com/@ByteByteGo
+
+
+
+1; kafka
+========
+
+1. Kafka: Bi-data serice
+
+1. queue per asset type
+
+2. partition key
+
+3. grouping of partition is : topic
+
+4. consumers defined how to read and from which offet: decided by consumer
+
+  What makes kafka fast:
+
+  1. Sequential IO and 
+  2. Zero copy principle:
+  From alexxu:
+      faster because; it uses append-only-data structure to have sequential access from Disk
+      has single copy principle; copies from OS cache directly to n/w card buffer
+
+========
+
+
+
+2. JWT:
+
+three parts:
+    HEADER | PAYLOAD | SIGNATURE
+    (PAYLOAD HAS CLAIMS; but must be encrypted and sensitive data must not be sent)
+    Not helpful in cas eof stateful trnsactions
+
+    Advantage: stateless; so need not store on server side
+
+    best practces:
+       strong signature + short token expiration time + keep short and compact claims in payload
+
+
+========
+
+
+3. Event Driven Architecture:
+
+
+
+
+
+
+
+======
+4.
+How t store password in DB:
+
+   1. hasing algorithm (MD)
+
+   2. salt: a string append to password where hashing was applied and store both hash and salt in Db
+
+
+=======
+
+
+5. latenncy numbers:
+
+
+
+==========6.. k8
+
+pods are maintained by control plane and are smallest deployabe; units
+
+24. How Meta built threads infrastructure: https://lnkd.in/d-2jQANq
+
+23. How Quora scaled MySQL to 100k+ queries per second: https://lnkd.in/dhMEeXdS
+
+22. How Shopify investigated and solved a 1M SQL query: https://lnkd.in/ddrcc4Ne
+
+21. How Uber computes ETA at scale: https://lnkd.in/dH4nHqG4
+
+20. Why Netflix integrated a service mesh in their backend: https://lnkd.in/d3tMQ6Vu
+
+19. Slack architecture: https://lnkd.in/dzAHBQV4
+
+18. Scaling Stripe APIs with rate limiting: https://lnkd.in/dmeSZkK6
+
+17. AWS scalability 101: https://lnkd.in/dM4AKMqG
+
+ML/AI systems:
+
+16. LLM 101 course: https://lnkd.in/dBh_vbsw
+
+15. How OpenAI trained ChatGPT: https://lnkd.in/d4kFupaP
+
+14. How Uber forecasts demands at airports: https://lnkd.in/dnywjMZC
+
+13. How Microsoft diagnoses prod issues with LLMs: https://lnkd.in/d2S8qWsF
+
+12. How Airbnb discovers what users like: https://lnkd.in/d8-upnAv
+
+11. How LinkedIn detects spam content: https://lnkd.in/dVTAZMja
+
+10. How Twitter (X) recommends tweets to users: https://lnkd.in/dG3eDQgb
+
+9. How Spotify generates ad-content at scale: https://lnkd.in/d8WuHN7y
+
+Frontend systems:
+
+8. The best app to slice through front-end interviews: https://lnkd.in/d6yAgbMH
+
+7. Making Instagram faster (3 parts): https://lnkd.in/dEUdnH2y
+
+6. How to design Facebook's news feed: https://lnkd.in/dGRG3Mp2
+
+5. Shopping for speed on Ebay: https://lnkd.in/dfXEDjNq
+
+4. How to design an autocomplete system: https://lnkd.in/d2tS83he
+
+3. How does Twitter uses Redux: https://lnkd.in/duS95euy
+
+2. Re-architecturing Airbnb's frontend: https://lnkd.in/diCa5nsJ
+
+1. How Youtube improved video performance: https://lnkd.in/d2ezaACw
+
+What are you learning this year?
+
+
+
+
