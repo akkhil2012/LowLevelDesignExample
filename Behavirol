@@ -1,0 +1,92 @@
+Behavirol
+
+1. tell me about yourself:
+===================
+
+I am a software developer with over five years of experience in the tech industry, specializing in full-stack development. My journey in software development began with a bachelor's degree in 
+solid foundation in programming and problem-solving skills.
+
+Throughout my career, I have worked with various technologies and programming languages, including JavaScript, Python, and Java. I have a strong background in developing web applications, and I am particularly passionate about creating user-friendly, efficient, and scalable solutions
+
+ I was part of a team that developed a cloud-based data governance and catalog management
+
+ I also have a keen interest in AI and machine learning, and I am currently working on a personal project that utilizes machine learning algorithms to analyze and predict classifications using scki-ket learn, tensorflow for deeplearning
+ and OpenCV for Object detection
+
+ Go for concurreny using channels ad go routine and Ansible with RedHat MarketPlace
+
+I  look forward to contributing to innovative projects and being a part of the dynamic and forward-thinking environment that your company is known for.
+
+=========
+
+2. Disagreement with manager:(STAR) (migration to use as events/ or export files)
+==========
+approach to a new feature in our software application. My manager wanted to implement the feature using a certain technology stack that I believed was not the best choice for our long-term goals
+	SITUATION: implementation for the processing of asset type plugins
+	TASK:  To MITIGATE the export time for  migration of data assets
+	ACTION: I requested a one-on-one meeting with my manager to discuss this issue in detail. Before the meeting, I prepared a comprehensive comparison of the two technology stacks, highlighting aspects like long-term maintainability, performance, compatibility with our existing systems, and overall impact on the project timeline
+	as it need to migrate the assets and the relationship of assets as well.
+    RESULT: incorporated both hthe viewPoint and adopted a hybrid approach. This incident not only led to a more robust solution for our project but also strengthened my relationship with my manager. It taught me the importance of open communication, thorough preparation, and respect for different viewpoints in resolving professional disagreements.
+
+
+ 3. Time you failed?(with respct to the custom attribute reverse realtionship export failing; for particular customer) Serv1
+and was depending on polling form IGC so overhead
+
+ Situation: add a feature to add custom attribute
+ In my eagerness to meet the deadline and impress the team, I rushed through the testing phase, skipping some of the more thorough, time-consuming tests I usually perform. The feature was deployed in the update, but it quickly became apparent that it contained a critical bug that severely affected user experience. Realizing my mistake, I immediately took responsibility and informed my team lead. I then worked diligently to fix the bug, conducting a comprehensive review and testing process to ensure no other issues were present
+
+ The bug was fixed and an updated version of the app was released within 24 hours. While the initial release did cause some user frustration, my prompt response and communication with the affected users helped mitigate the situation. 
+
+
+
+ 4. difficult situation: migration of data?
+  To migrate; all datatypes as import area and other data assets? as database-connection,ldm or pdm assets?
+  delaying to include all at once;
+  suggested the phased approach: add the support plugin wise ; keeping the custom attribute or associated assets to migrate later.
+
+ 5. Critical feeedback received
+ ==============================
+ engaging more into optimising the task
+ was surprised thus begin to break down the tasks and accomplish the deliverable first and keep optimizationt to subsequent QA phase for instance
+
+
+7. Techinical challenge:
+
+we faced a significant challenge when we were tasked with developing a large-scale data processing system. The system was designed to handle and analyze data streams 
+
+For a workflow; when asset changes from Draft to Publish state
+
+to use kafka streams
+Kafka Streams is often used in conjunction with event sourcing and the Command Query Responsibility Segregation (CQRS) pattern. It can process events, update state stores, and emit new events, making it suitable for building event-driven architectures.
+
+
+==================================
+
+8. Why want to change company?
+====
+I have had a very rewarding experience at my current company, where I've grown both professionally and technically
+However, I am now seeking a new challenge and an opportunity to further expand my skills and experiences, particularly in
+AI advancement into Data management and analytics/governance
+ I believe change is essential for personal and professional growth, and I feel that now is the right time for me to explore a new environment.
+
+9. How Prioritze the Tasks:
+ breakdown 
+
+10. Accompalishment you proud of?(******)
+s a software developer is leading the development and successful launch of a event driven architecture 
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+

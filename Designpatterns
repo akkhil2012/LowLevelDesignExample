@@ -1,0 +1,18 @@
+1. double check and enum in Singleton DP
+
+2.
+
+
+>>>
+https://github.ibm.com/wdp-gov/tracker/issues/148287
+
+ibm-cos-java-sdk-bundle-2.13.1.  2.16
+/jackson-databind-2.15.3.jar.    2.16
+/opt/java/bin/java   fixed in 18; 11.0.3;
+
+
+
+
+https://github.ibm.com/wdp-gov/tracker/issues/152941
+
+IBM Java version for wdp-search:1.0.679 is not the latest one: 17.0.8.1+1 instead of 17.0.9+9

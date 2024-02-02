@@ -1,0 +1,22 @@
+Spring boot
+========
+
+https://github.com/SaiUpadhyayula/spring-boot-microservices?tab=readme-ov-file
+
+https://www.youtube.com/watch?v=mPPhcU7oWDU
+
+
+DOCKER_DEFAULT_PLATFORM=linux/amd64 docker run -itd --name TESTDB --privileged=true -p 50000:50000 -e LICENSE=accept -e DB2INST1_PASSWORD=db2inst1 -e DBNAME=testdb ibmcom/db2
+>>>>>
+
+In eclipse
+
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+spring.datasource.url = jdbc:mysql://tads1.fyre.ibm.com:50000/TESTDB
+spring.datasource.username = db2inst1
+spring.datasource.password = db2inst1
+spring.jpa.show-sql = true
+spring.jpa.hibernate.ddl-auto = update
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.DB2Dialect
+server.port=9090
+
