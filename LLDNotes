@@ -1,0 +1,316 @@
+
+LLD all:
+https://hashnode.com/@techlinks
+
+
+
+
+linkedin: job search query:
+https://www.linkedin.com/search/results/content/?contentType=%22jobs%22&keywords=java&origin=FACETED_SEARCH&sid=ys4&sortBy=%22relevance%22
+
+
+
+https://github.com/kumaransg/LLD/blob/main/Low_level_Design_Problems/Calculator/README.md
+
+
+MUST DO FROM VIDEO:
+https://www.youtube.com/watch?v=3KSLh_hvwtQ
+
+
+
+
+
+https://leetcode.com/discuss/interview-question/system-design/344524/Amazon-or-Design-a-JobTask-Scheduler
+
+
+ser should be able to see the Jobs in UI and do CRUD operations.
+Jobs can be of 2 types.
+Single Execution (executed once, may be in some time in future.
+Repetitive ( can be executed multiple times based on the schedule given)
+Have to handle 10 Million Jobs a day.
+If Job execution fails , retry the job for 5 times before giving up.
+More specific questions
+What would be your DB schema for this?
+How will you store the jobs and execute it at the given time? Will you do a constant poll? if so, what is the time interval?
+Do we have any other approach apart from polling the DB constantly?
+How many machine are needed to handle 10Million Jobs/Day.
+
+
+
+
+HLD Questions:
+
+https://www.youtube.com/watch?v=7IX84K9g23U&list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW
+
+
+
+Build your own QR Code Generator - https://lnkd.in/erhe9zcy
+⇢ Build your own crontab tool - https://lnkd.in/ekwAMevc
+⇢ Build your own Lisp interpreter - https://lnkd.in/eR7Q28yM
+⇢ Build your own Redis server - https://lnkd.in/eHRCAmCE
+⇢ Build your own URL shortener - https://lnkd.in/ezCc8EFR
+⇢ Build your own Application Load Balancer - https://lnkd.in/eiBRVHNu
+⇢ Build your own DNS Resolver - https://lnkd.in/eUB3nyxC
+⇢ Build your own Git Client - https://lnkd.in/eG6jYyRm
+⇢ Build your own Scheduling App - https://lnkd.in/eKDSRhdS
+⇢ Build your own Rate Limiter - https://lnkd.in/e2C2RB4M
+⇢ Build your own Message Broker - https://lnkd.in/eaFGTxKT
+⇢ Build your own Web Server - https://lnkd.in/ezBDppnb
+⇢ Build your own Memcached server - https://lnkd.in/esGquJTy
+⇢ Build your own IRC client - https://lnkd.in/eqWfX_JR
+⇢ Build your own Discord Bot - https://lnkd.in/emAymj8b
+⇢ Build your own compression tool using Huffman encoding - https://lnkd.in/e4WcUyYy
+⇢ Build your own Spotify client - https://lnkd.in/eGDB9zgN
+⇢ Build your own JSON parser - https://lnkd.in/ejWVe4H6
+
+
+
+techgramth:
+
+https://github.com/TheTechGranth/thegranths/blob/master/src/main/java/SystemDesign/SnakeAndLadder/Jumper.java
+
+https://github.com/TheTechGranth/thegranths/blob/master/src/main/java/SystemDesign/LoggingFramework/Logger.java
+
+
+
+
+>>>>>>>>>>>>>>>.
+
+revision 1:
+======
+ƒparking
+
+1. parking Lot:
+/Users/akhil/newRepo/lldProjects/LLDRevision1
+
+2. To do:
+https://github.com/TheTechGranth/thegranths/blob/master/src/main/java/SystemDesign/LoggingFramework/Logger.java
+
+
+3.
+https://github.com/Amitha353/Low-Level-Design
+https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-cricinfo.md
+
+
+3.1
+  Meeting room scheduler:
+  https://github.com/Amitha353/Low-Level-Design/blob/main/Amazon/2.MeetingScheduler.md?plain=1
+
+4.
+https://github.com/keertipurswani/Uber-Ola-Low-Level-Design
+
+
+
+
+ChessExample.java
+ExecutorServiceExample.java
+ImplementResourcePoolExample.java
+InMemoryFileSystemExample.java
+LRUCacheExample.java
+ParkingLotExample.java .......
+RateLimiterExample.java........
+TimeScheduler.java
+
+
+Google Calendar
+
+
+LLD:
+https://www.youtube.com/watch?v=rliSgjoOFTs
+
+>>>>
+
+https://www.youtube.com/@SystemDesignInterview
+
+>>>
+LogicMojo: youtube
+
+>>>>>>>
+leetcode:
+https://leetcode.com/discuss/interview-question/object-oriented-design/1177601/Flipkart-or-Machine-Coding-or-Design-Online-Coding-Platform-CODING-BLOX-Leetcode-LLD/
+
+
+///
+https://akhiilgupta.medium.com/design-a-multi-threaded-task-scheduler-lld-multi-threaded-construct-eb090c5a8727
+
+
+
+
+
+
+
+
+============================
+
+1. Constructor
+
+2. null pointers
+
+https://leetcode.com/problems/sliding-window-maximum/description/
+
+==========
+
+
+
+
+LLD:
+
+
+
+
+Rate Limter : must:
+==
+https://github.com/lavakumarThatisetti/Machine-Coding-Round/blob/master/src/com/lavakumar/ratelimiter/algorthims/TokenBucket.java
+
+Design FB:
+
+https://github.com/lavakumarThatisetti/Machine-Coding-Round/blob/master/src/com/lavakumar/designfacebook/ReadMe.md
+
+
+Love kumar LLD(You Tube)
+https://www.youtube.com/channel/UCnM3YeyV4d3ezuvFUYH7P0Q
+
+>>>>>>
+LLD questions:(important)
+https://workat.tech/machine-coding
+https://workat.tech/machine-coding/practice
+
+
+
+===========
+All LLD design problems:
+https://github.com/kumaransg/LLD/tree/main/Low_level_Design_Problems
+
+
+>>>>>>>>>.
+ how to use Design pattern in LLD:(sudoCOde)
+
+ https://www.youtube.com/watch?v=4ff_KZdvJn8&list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k&index=13
+
+
+
+>>>>>>
+
+solid principles:(java techie)
+
+https://www.youtube.com/watch?v=BM_lSZPMClo
+
+
+=======revision1:
+
+https://github.com/lavakumarThatisetti/Machine-Coding-Round/tree/master/src/com/lavakumar/parkinglot
+
+
+Job Scheduler:
+https://leetcode.com/discuss/interview-question/system-design/344524/Amazon-or-Design-a-JobTask-Scheduler
+
+ALl LLD:
+https://github.com/madhank93/learn-system-design?source=post_page-----ab5f4efab90--------------------------------
+
+
+>>>>> srang:
+https://github.com/kumaransg/LLD/tree/main
+
+
+
+https://enginebogie.com/public/question/low-level-design-notification-system/261
+
+
+
+
+Design Parking Lot
+Single Entry and Exit Gates
+Multiple Entry and Exit Gates
+Design Multiplayer Sudoku Game
+Players have to Rotate the Pin in order to decide the turn.
+Player who is able to fill the last empty cell will win.
+Design LRU (Static + Dynamic Input Flow)
+Follow Up : Implement LFU with Least Changes in the previous design (LRU)
+Design In Memory Cache
+Design Snake and Ladder Game
+How would you change the design if wild cards are allowed.
+Design Exception Class With Test Cases
+Note: Don't forget to use Singleton Pattern Here.
+Design Money Splitter
+Design Notification Service
+Design Message Queue
+Design a Terminal/Command Prompt
+
+>>>>>>>>>>>
+
+
+LLD using kumarsarang:
+https://github.com/kumaransg/LLD/tree/main
+
+
+Stock exchange:
+https://github.com/kumaransg/LLD/blob/main/StockExchange/readme.md
+
+
+
+Parking:
+https://github.com/lavakumarThatisetti/Machine-Coding-Round/tree/master
+
+>>>>
+1.https://github.com/kumaransg/LLD (Full repository - 10 questions)
+
+2.https://https://lnkd.in/dCWUP2Pd
+(Full repository - 27 questions)
+
+3.https://https://lnkd.in/duqqP_rh
+
+4.https://https://lnkd.in/dfZSRsB6
+
+5.https://https://lnkd.in/d9fysZxb
+
+6.https://https://lnkd.in/deKZqpaT
+
+7.https://https://lnkd.in/d4ku_Fvg
+
+8.https://https://lnkd.in/dciHTEYp
+
+9.https://https://lnkd.in/djBF3evc
+
+10.https://https://lnkd.in/duiqDwSK
+
+https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-library-management-system.md
+
+
+>>>
+https://lldcoding.com/design-lld-gmail-machine-coding
+
+
+>>>
+
+https://www.linkedin.com/feed/update/urn:li:activity:7147202259733393408/
+
+
+======
+
+new LLDs:
+https://github.com/prasadgujar/low-level-design-primer/blob/master/questions.md
+
+Singleton Pattern: For the GoogleAuthenticator instance, ensuring a single point of access to the authentication system.
+
+Factory Method Pattern: For creating instances of authentication tokens, allowing flexibility for different token types.
+
+Strategy Pattern: For supporting different hashing algorithms and making them interchangeable.
+
+Facade Pattern: Simplifying the complexity of the authentication system by providing a higher-level interface.
+
+Observer Pattern: For notifying users or systems about events like successful or failed authentication attempts.
+
+Command Pattern: For encapsulating token generation and verification requests as objects.
+
+Data Access Object (DAO) Pattern: For handling data access and storage, especially for user-related data.
+
+
+>>>>>>>>
+couse on LLD:
+https://lowleveldesign.io/
+
+
+
+
+
+
